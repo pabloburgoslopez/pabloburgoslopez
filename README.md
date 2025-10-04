@@ -43,6 +43,5 @@
 ---
 
 ## 📫 Contacto
-- Email: (añade tu email)
-- LinkedIn: (añade tu LinkedIn)
+- Email: tic.it.pablo@gmail.com
 - GitHub: https://github.com/pabloburgoslopez
